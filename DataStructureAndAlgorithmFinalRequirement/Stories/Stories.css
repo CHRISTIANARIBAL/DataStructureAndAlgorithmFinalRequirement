@@ -1,0 +1,148 @@
+body {
+    background-color: rgb(6, 6, 107);
+}
+
+.links {
+    float: left;
+  }
+  
+.links a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .links a:hover {
+    background-color: #111;
+}
+  
+  .active {
+    background-color: #4CAF50;
+  }
+
+li {
+    float: left;
+  }
+  
+  li a {
+    font-size: large;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  .s1 {
+    padding-top: 4%;
+    padding-bottom: 0px;
+  }
+  .s2 {
+    padding-top: 4%;
+    padding-bottom: 0px;
+  }
+  .s3 {
+    padding-top: 4%;
+    padding-bottom: 0px;
+  }
+  .s4 {
+    padding-top: 4%;
+    padding-bottom: 0px;
+  }
+  
+  .title1 {
+    padding-top: 4%;
+    text-align: center;
+    text-transform: uppercase;
+    color: #4CAF50;
+  }
+  .title2 {
+    padding-top: 4%;
+    text-align: center;
+    text-transform: uppercase;
+    color: #4CAF50;
+  }
+  .title3 {
+    padding-top: 4%;
+    text-align: center;
+    text-transform: uppercase;
+    color: #4CAF50;
+  }
+  .title4 {
+    padding-top: 4%;
+    text-align: center;
+    text-transform: uppercase;
+    color: #4CAF50;
+  }
+  
+  .p1 {
+    padding: 5%;
+    padding-top: 2%;
+    padding-bottom: 0px;
+    font-size: larger;
+    color: aliceblue;
+    text-indent: 50px;
+    text-align: justify;
+    letter-spacing: 1px;
+  }
+  .p2 {
+    padding: 5%;
+    padding-top: 2%;
+    padding-bottom: 0px;
+    font-size: larger;
+    color: aliceblue;
+    text-indent: 50px;
+    text-align: justify;
+    letter-spacing: 1px;
+  }
+  .p3 {
+    padding: 5%;
+    padding-top: 2%;
+    padding-bottom: 0px;
+    font-size: larger;
+    color: aliceblue;
+    text-indent: 50px;
+    text-align: justify;
+    letter-spacing: 1px;
+  }
+  .p4 {
+    padding: 5%;
+    padding-top: 2%;
+    padding-bottom: 0px;
+    font-size: larger;
+    color: aliceblue;
+    text-indent: 50px;
+    text-align: justify;
+    letter-spacing: 1px;
+  }
+
+  .m1 {
+    color: aliceblue;
+    padding-left: 5%;
+    padding-top: 0%;
+    padding-bottom: 0px;
+    text-transform: uppercase;
+  }
+  .m2 {
+    color: aliceblue;
+    padding-left: 5%;
+    padding-top: 0%;
+    padding-bottom: 0px;
+    text-transform: uppercase;
+  }
+  .m3 {
+    color: aliceblue;
+    padding-left: 5%;
+    padding-top: 0%;
+    padding-bottom: 0px;
+    text-transform: uppercase;
+  }
+  .m4 {
+    color: aliceblue;
+    padding-left: 5%;
+    padding-top: 0%;
+    padding-bottom: 0px;
+    text-transform: uppercase;
+  }
