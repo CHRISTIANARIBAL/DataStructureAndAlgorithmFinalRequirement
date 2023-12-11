@@ -35,19 +35,19 @@ li {
     text-decoration: none;
   }
 
-  .s1, .s2, .s3, .s4, .s5, .s6 {
+  .s1, .s2, .s3, .s4, .s5, .s6, .s7, .s8 {
     padding-top: 4%;
     padding-bottom: 0px;
   }
   
-  .title1, .title2, .title3, .title4, .title5, .title6{
+  .title1, .title2, .title3, .title4, .title5, .title6, .title7, .title8{
     padding-top: 4%;
     text-align: center;
     text-transform: uppercase;
     color: #4CAF50;
   }
   
-  .p1, .p2, .p3, .p4, .p5, .p6{
+  .p1, .p2, .p3, .p4, .p5, .p6, .p7, .p8{
     padding: 5%;
     padding-top: 2%;
     padding-bottom: 0px;
@@ -58,7 +58,7 @@ li {
     letter-spacing: 1px;
   }
 
-  .m1, .m2, .m3, .m4, .m5, .m6 {
+  .m1, .m2, .m3, .m4, .m5, .m6, .m7, .m8 {
     color: aliceblue;
     padding-left: 5%;
     padding-top: 0%;
